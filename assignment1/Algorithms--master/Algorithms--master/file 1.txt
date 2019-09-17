@@ -1,0 +1,5 @@
+start 
+Get value from c-temp
+set value of f-temp * c-temp) + 32
+print the value of f-temp
+stop

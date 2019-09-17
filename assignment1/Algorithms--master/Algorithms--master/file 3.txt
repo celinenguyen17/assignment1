@@ -1,0 +1,7 @@
+start
+get values for c-temp
+set acc=0
+while (f-temp > 0)
+set f-temp to (f-temp)-1
+print value of f-temp
+stop
